@@ -24,3 +24,7 @@ HTML5 way
 
 //--------------------------------------------------
 
+meta tags?
+
+
+meta tags provide the information to the search engines and the bots regarding what the website is about and what it contains
