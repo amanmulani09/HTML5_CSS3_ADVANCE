@@ -1,0 +1,26 @@
+HTML5/4 these are the specifications that maintained by the community
+it provides the way to writing the code in this language and how things can be behave in what way??
+
+HTML5 =>
+
+HTML4.1 => HTML5 
+in html5 no need to write the <!doctype HTML> insted of can write <html> only
+
+there are few seamantic tags were introducted in hTML5
+in html video, img, a, canvas, iframe these are the meaningful tags
+other than this p, span, div, button these can be manipulated and behave using CSS
+
+HTML4 way
+<div id="header> </div>
+<div id="content> </div>
+<div id="footer> </div>
+
+HTML5 way 
+
+<header> </header>
+<section> </section>
+<footer> </footer>
+
+
+//--------------------------------------------------
+
